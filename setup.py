@@ -1,7 +1,7 @@
 from setuptools import setup
 
 
-requires = ["requests==2.18.4"]
+requires = ["requests==2.20.0"]
 
 
 setup(
